@@ -1,0 +1,8 @@
+*.csv
+*.zip
+*.xlsx
+data/
+venv/
+__pycache__/
+*.pkl
+*.h5
